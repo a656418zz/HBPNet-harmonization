@@ -3,8 +3,8 @@
 ## Dependencies
 * pytorch
 * torchvision
-* BasicSR
 * opencv-python
+* StyleGAN
 
 ## Visualization of the real composite image in video
 This is a display of synthesized video content, arranged from left to right in the following order: input background, HT, DoveNet, ADFM, iDIH-HRNet, S2CRNet, and our method.
